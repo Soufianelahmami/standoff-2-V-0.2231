@@ -19,10 +19,10 @@
   "admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
 
-  "yandex_banner":"R-M-DEMO-320x100",
-  "yandex_inter":"R-M-DEMO-interstitial",
-  "yandex_native":"R-M-DEMO-native-i",
-  "yandex_reward":"demo-rewarded-yandex",
+  "yandex_banner":"R-M-2424451-1",
+  "yandex_inter":"R-M-2424451-3",
+  "yandex_native":"R-M-2424451-2",
+  "yandex_reward":"R-M-2424451-4",
 
   "vungle_appid":"645e64defe20a95ccb12bd7b ",
   "vungle_inter":"INTER-5944534",
@@ -32,22 +32,22 @@
 
 
   "download_dialog_txt":"download text from server",
-  "banner_network_choice":"admob",
-  "interstisial_network_choice":"admob",
-  "reward_network_choice":"admob",
-  "native_network_choice":"admob"
+  "banner_network_choice":"yandex",
+  "interstisial_network_choice":"yandex",
+  "reward_network_choice":"yandex",
+  "native_network_choice":"yandex"
 
 
 },
   "my_data":[
-    {"desc1":"description1 ser"},
-    {"desc2":"description2 ser"},
-    {"desc3":"description3 ser"},
-    {"desc4":"description4 ser"},
-    {"desc5":"description5 ser"},
-    {"desc6":"description5 ser"},
-    {"desc7":"description5 ser"},
-    {"descd":"description d ser"}
+    {"desc1":"Standoff 2 is an adrenaline-pumping mobile first-person shooter (FPS) game that brings intense multiplayer action to the palm of your hand"},
+    {"desc2":"Standoff 2 puts you in the shoes of a skilled operative, thrust into intense combat scenarios against players from around the world"},
+    {"desc3":"The game offers a wide range of modes to suit different play styles and preferences. From classic Deathmatch and Defuse the Bomb to Capture the Flag and Arms Race, there's something for everyone. The objective-based gameplay keeps players on their toes, fostering teamwork, strategy, and quick reflexes."},
+    {"desc4":"One of the standout features of Standoff 2 is its impressive arsenal of authentic weapons. From pistols and shotguns to assault rifles and sniper rifles, the game provides a wide array of firearms to choose from"},
+    {"desc5":"Each weapon is meticulously designed, complete with detailed models and realistic sound effects. Furthermore, players can customize their weapons with various skins and attachments, allowing for personalized loadouts that suit their preferred play style."},
+    {"desc6":"Standoff 2 boasts stunning visuals that push the boundaries of mobile gaming. The game features high-quality textures, detailed environments, and smooth animations, providing a visually immersive experience"},
+    {"desc7":"Standoff 2 has gained popularity not only among casual players but also in the competitive gaming community. With its focus on skill-based gameplay, balanced mechanics, and a dedicated esports mode, the game has become a staple in mobile esports. Players can participate in tournaments, leagues, and championships, competing for fame, recognition, and valuable prizes. The thriving esports scene of Standoff 2 has created a vibrant and passionate community of players, driving the game's longevity and appeal."},
+    {"descd":"Standoff 2 stands as a testament to the incredible potential of mobile gaming. Its captivating gameplay, impressive graphics, and diverse game modes offer an immersive FPS experience for players on the go"}
   ]
 
 }
