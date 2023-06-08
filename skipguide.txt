@@ -1,54 +1,53 @@
 {"ads":{
-  
 
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
- 
 
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
-  
+  "unity_inter":"Interstitial_Android",
+  "unity_banner":"Banner_Android",
+  "unity_reward":"Rewarded_Android",
+  "unity_gameid":"5082535",
 
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-"admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
-  
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
 
-  
+  "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+  "facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+  "facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+  "facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
 
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
-  
+
+  "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+  "admob_native":"ca-app-pub-3940256099942544/2247696110",
+  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
+
+
+  "yandex_banner":"R-M-DEMO-320x100",
+  "yandex_inter":"R-M-DEMO-interstitial",
+  "yandex_native":"R-M-DEMO-native-i",
+  "yandex_reward":"demo-rewarded-yandex",
+
+  "vungle_appid":"645e64defe20a95ccb12bd7b ",
+  "vungle_inter":"INTER-5944534",
+  "vungle_banner":"DEFAULTBANNER-5844358",
+  "vungle_reward":"REWARD-7025613",
+
+
+
+  "download_dialog_txt":"download text from server",
+  "banner_network_choice":"admob",
+  "interstisial_network_choice":"admob",
+  "reward_network_choice":"admob",
+  "native_network_choice":"admob"
+
 
 },
   "my_data":[
-  {"desc1":"Standoff 2 v0.223 introduces several gameplay enhancements that heighten the intensity and strategic depth of the game."},
-  {"desc2":"One significant addition is the introduction of a new weapon, the M4A4 rifle. Known for its versatility and accuracy, the M4A4 offers players an alternative to the existing arsenal, providing a fresh tactical approach to combat engagements"},
-  {"desc3":" This addition expands the range of viable weapon choices and allows players to tailor their loadout to match their preferred playstyle."},
-  {"desc4":"Another notable improvement in v0.223 is the revamp of the sniper rifle mechanics. Axlebolt has refined the controls and aiming system, resulting in smoother and more precise sniper gameplay."},
-  {"desc5":" Snipers now experience improved scope functionality, reduced sway, and enhanced hit registration, making long-range encounters more satisfying and rewarding. These changes provide a significant boost to the sniper class, offering players greater viability and a higher skill ceiling for mastering this challenging role."},
-  {"desc6":"To keep the gameplay experience fresh and engaging, Standoff 2 v0.223 introduces new maps and game modes"},
-  {"desc7":" One of the standout additions is the map called "Dockyard." Set in a desolate port area, Dockyard presents players with unique tactical opportunities, such as narrow corridors and vantage points overlooking the sea"},
-  {"descd":"The map's design promotes close-quarters combat while still allowing for strategic maneuvering and flanking maneuvers. Dockyard's addition enriches the map pool, ensuring a diverse and dynamic experience for players across various game modes."}
-   ]
- 
+    {"desc1":"description1 ser"},
+    {"desc2":"description2 ser"},
+    {"desc3":"description3 ser"},
+    {"desc4":"description4 ser"},
+    {"desc5":"description5 ser"},
+    {"desc6":"description5 ser"},
+    {"desc7":"description5 ser"},
+    {"descd":"description d ser"}
+  ]
+
 }
-   
